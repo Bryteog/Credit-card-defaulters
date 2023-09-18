@@ -1,1 +1,1 @@
-# Credit-card-defaulters
+- Classifying credit card users as defaulters and non-defaulters, credit card data obtained from UCI repo.
